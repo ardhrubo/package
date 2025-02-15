@@ -1,9 +1,9 @@
 {
   "name": "is-true-crilab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Is it true?",
   "keywords": [
-    "Is it true?"
+    "is-true?"
   ],
   "homepage": "https://github.com/ardhrubo/package#readme",
   "bugs": {
